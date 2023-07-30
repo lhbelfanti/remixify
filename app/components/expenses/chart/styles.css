@@ -1,0 +1,9 @@
+.chart {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    justify-items: center;
+    gap: 0.75rem;
+    padding: 1.5rem;
+    border-radius: 6px;
+    border: 2px solid var(--color-gray-10);
+}

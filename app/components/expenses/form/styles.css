@@ -1,0 +1,16 @@
+#expense-form {
+    padding: 1rem;
+}
+
+#expense-form .form-actions {
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+}
+
+#expense-form a {
+    color: var(--color-gray-400);
+}
+
+#expense-form a:hover {
+    color: var(--color-gray-500);
+}

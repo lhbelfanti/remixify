@@ -1,0 +1,12 @@
+#no-expenses {
+    text-align: center;
+}
+
+#no-expenses a {
+    color: var(--color-primary-100);
+}
+
+#expenses-list {
+    max-width: 32rem;
+    margin: 2rem auto;
+}

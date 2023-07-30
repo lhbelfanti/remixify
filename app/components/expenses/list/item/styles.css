@@ -1,0 +1,75 @@
+#expenses-actions {
+    margin: 2rem 0;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+#expenses-actions a {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    color: var(--color-primary-800);
+    background-color: var(--color-primary-10);
+    padding: 0.5rem 1.5rem;
+    border-radius: 30px;
+}
+
+#expenses-actions a:hover {
+    background-color: var(--color-gray-100);
+}
+
+#expenses-actions a:last-of-type {
+    background-color: transparent;
+    color: var(--color-gray-10);
+}
+
+#expenses-actions a:last-of-type:hover {
+    background-color: transparent;
+    color: var(--color-gray-100);
+}
+
+.expense-item {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background-color: var(--color-primary-300);
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    color: var(--color-gray-10);
+}
+
+.expense-item.locked {
+    justify-content: center;
+    background-color: var(--color-primary-200);
+}
+
+.expense-title {
+    margin: 0;
+}
+
+.expense-amount {
+    margin: 0;
+}
+
+.expense-actions {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.expense-actions button,
+.expense-actions a {
+    background-color: transparent;
+    border: none;
+    color: var(--color-gray-10);
+    padding: 0;
+}
+
+.expense-actions button:hover,
+.expense-actions a:hover {
+    color: var(--color-primary-100);
+}
