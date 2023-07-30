@@ -2,7 +2,7 @@
   <img src="media/remixify-logo.png" width="100" alt="Repository logo" />
 </p>
 <h3 align="center">Remixify</h3>
-<p align="center">Learning a full stack web framework called <b>Remix</b><p>
+<p align="center">Learning a Full Stack web framework called <b>Remix</b><p>
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/lhbelfanti/remixify?label=Repo%20size" alt="Repo size" />
     <img src="https://img.shields.io/github/license/lhbelfanti/remixify?label=License" alt="License" />
