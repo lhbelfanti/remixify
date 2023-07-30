@@ -3,12 +3,14 @@
 </p>
 <h3 align="center">Remixify</h3>
 <p align="center">Learning a Full Stack web framework called <b>Remix</b><p>
+<p align="center"><a href="https://main--lhbelfanti-remixify.netlify.app/"><strong>➥ Live Demo</strong></a></p>
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/lhbelfanti/remixify?label=Repo%20size" alt="Repo size" />
     <img src="https://img.shields.io/github/license/lhbelfanti/remixify?label=License" alt="License" />
     <a href="https://www.udemy.com/course/remix-course/">
         <img src="https://img.shields.io/badge/Course-A435F0?&logo=Udemy&logoColor=white&label=Udemy" alt="Udemy Course" />
     </a>
+    <img src="https://api.netlify.com/api/v1/badges/aa7ae8e5-d9e8-4549-b9a6-ca997c899e02/deploy-status" alt="Netlify" />
 </p>
 
 ---
